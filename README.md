@@ -1,1 +1,1 @@
-# XFEM-in-COMSOL
+# XFEM-in-COMSOL: Solid Mechanics
